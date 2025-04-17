@@ -1,0 +1,18 @@
+-qc_par
+"QC.MFLAT.MEDIAN"
+-x_field
+"MJD-OBS"
+-filter
+"BB#U/50_ESO877"
+-instrument 
+"wfi"
+-yrange
+[(0, 1), (0, 1), (0, 1), (0, 1), (0, 1), (0, 1), (0, 1), (0, 1)]
+-lowthld
+(0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1)
+-upthld
+(0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9)
+-medplot
+True
+-outfile
+"plot27"

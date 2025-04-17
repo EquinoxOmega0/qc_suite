@@ -1,0 +1,14 @@
+-qc_par
+"QC.SCI.SEEING"
+-x_field
+"MJD-OBS"
+-instrument
+"ocam"
+-filter
+"z_SDSS"
+-mjdmin
+55938.0
+-mjdmax
+55938.5
+-outfile
+"plot1.png"

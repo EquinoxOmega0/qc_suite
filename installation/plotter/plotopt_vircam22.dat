@@ -1,0 +1,12 @@
+-qc_par
+"QC.DARKRMS"
+-x_field
+"MJD-OBS"
+-instrument
+"vircam"
+-filtpar1
+"DET.DIT"
+-filtval1
+10
+-outfile
+"plot22.png"

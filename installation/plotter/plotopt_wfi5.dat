@@ -1,0 +1,8 @@
+-qc_par
+"QC.SHUTTERERROR"
+-x_field
+"MJD-OBS"
+-instrument
+"wfi"
+-outfile
+"plot5"

@@ -1,0 +1,18 @@
+-qc_par
+"QC.MDOME.STDEV"
+-x_field
+"MJD-OBS"
+-filter
+"BB#V/89_ESO843"
+-instrument 
+"wfi"
+-yrange
+[(0, 0.2), (0, 0.2), (0, 0.2), (0, 0.2), (0, 0.2), (0, 0.2), (0, 0.2), (0, 0.2)]
+-lowthld
+(0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01)
+-upthld
+(0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.175, 0.175)
+-medplot
+True
+-outfile
+"plot42"

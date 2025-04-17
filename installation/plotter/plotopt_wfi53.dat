@@ -1,0 +1,18 @@
+-qc_par
+"QC.STD.SEEING"
+-x_field
+"MJD-OBS"
+-filter
+"BB#U/50_ESO877"
+-instrument
+"wfi"
+-yrange
+[(0.0,3.5), (0.0,3.5), (0.0,3.5), (0.0,3.5), (0.0,3.5), (0.0,3.5), (0.0,3.5), (0.0,3.5)]
+-lowthld
+(0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4)
+-upthld
+(2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
+-medplot
+True
+-outfile
+"plot53"

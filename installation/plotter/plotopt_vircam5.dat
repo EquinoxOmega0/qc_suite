@@ -1,0 +1,14 @@
+-qc_par
+"QC.MAGZPT"
+-x_field
+"MJD-OBS"
+-instrument
+"vircam"
+-filtpar1
+"DET.DIT"
+-filtval1
+7.5
+-filter
+"K"
+-outfile
+"plot5.png"

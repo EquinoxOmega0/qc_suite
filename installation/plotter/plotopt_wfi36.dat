@@ -1,0 +1,18 @@
+-qc_par
+"QC.ZEROPOINT"
+-x_field
+"MJD-OBS"
+-filter
+"BB#I/203_ESO879"
+-instrument 
+"wfi"
+-yrange
+[(20, 30), (20, 30), (20, 30), (20, 30), (20, 30), (20, 30), (20, 30), (20, 30)]
+-lowthld
+(22, 22, 22, 22, 22, 22, 22, 22)
+-upthld
+(27, 27, 27, 27, 27, 27, 27, 27)
+-medplot
+True
+-outfile
+"plot36"

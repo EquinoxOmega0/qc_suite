@@ -1,0 +1,10 @@
+-qc_par
+"QC.MAGZPT"
+-x_field
+"MJD-OBS"
+-instrument
+"vircam"
+-filter
+"Y"
+-outfile
+"plot14.png"

@@ -1,0 +1,16 @@
+-xfield
+"MJD-OBS"
+-qc_par
+"QC.MASK.CCD.Y0"
+-instrument
+"vimos"
+-yrange
+[(1101,1107), (1038,1046), (1405,1412), (1358,1365)]
+-mjdmin 
+55901.5869234
+-upthld
+(1104, 1042.5, 1410, 1364)
+-lowthld
+(1102, 1040.5, 1408, 1362)
+-outfile
+"plot1.png"
