@@ -1,0 +1,47 @@
+ --- NCHIPS ---
+8
+ --- chipIndeces ---
+WIN1.CHIP1.OUT1
+WIN1.CHIP2.OUT1
+WIN1.CHIP3.OUT1
+WIN1.CHIP4.OUT1
+WIN1.CHIP5.OUT2
+WIN1.CHIP6.OUT1
+WIN1.CHIP7.OUT1
+WIN1.CHIP8.OUT1
+ --- zcodes ---
+2
+4
+1
+ ----------------
+2
+4
+2
+ ----------------
+2
+4
+3
+ ----------------
+2
+4
+4
+ ----------------
+2
+4
+8
+ ----------------
+2
+4
+7
+ ----------------
+2
+4
+6
+ ----------------
+2
+4
+5
+ --- xtick_codes ---
+0     0   0   0   1   1   1   1
+ --- ytick_codes ---
+1     1   1   1   1   1   1   1

@@ -1,0 +1,21 @@
+--- configuration for qc_fetch ---
+logs
+logs
+crunching
+csaulder
+polymerase2310
+1
+--- configuration for qc_prepare ---
+1
+90
+
+wfi_qcdata.dat
+--- configuration for qc_plotter ---
+1
+--- configuration for qc_push ---
+htmlpage
+crunching
+csaulder
+polymerase2310
+--- configuration fo qc_main ---
+wfi
