@@ -1,0 +1,12 @@
+-qc_par
+"QC.NHOTPIX"
+-x_field
+"MJD-OBS"
+-instrument
+"vircam"
+-filtpar1
+"DET.DIT"
+-filtval1
+10
+-outfile
+"plot28.png"

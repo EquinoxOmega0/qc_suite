@@ -1,0 +1,18 @@
+-qc_par
+"QC.MFLAT.STDEV"
+-x_field
+"MJD-OBS"
+-filter
+"BB#I/203_ESO879"
+-instrument 
+"wfi"
+-yrange
+[(0, 2000), (0, 2000), (0, 2000), (0, 2000), (0, 2000), (0, 2000), (0, 2000), (0, 2000)]
+-lowthld
+(10, 10, 10, 10, 10, 10, 10, 10)
+-upthld
+(1900, 1900, 1900, 1900, 1900, 1900, 1900, 1900)
+-medplot
+True
+-outfile
+"plot49"

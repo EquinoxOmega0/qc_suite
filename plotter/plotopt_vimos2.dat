@@ -1,0 +1,10 @@
+-xfield
+"INS.FOCU1.TEMP"
+-qc_par
+"QC.MASK.CCD.Y0"
+-instrument
+"vimos"
+-yrange
+[(1101,1107), (1038,1046), (1405,1412), (1358,1365)]
+-outfile
+"plot2.png"
